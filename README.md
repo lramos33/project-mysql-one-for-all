@@ -90,7 +90,7 @@ Nesse projeto, recebemos uma tabela não normalizada semelhante ao que poderia s
   - A segunda coluna deve exibir a quantidade de pessoas que já escutaram aquela canção, com o alias "reproducoes";
   - Seus resultados devem estar agrupados pelo nome da canção e ordenados em ordem alfabética.
 
-#### Requisitos bônus:
+### Requisitos bônus:
 
 - [x] 11. Crie uma QUERY que altere o nome de algumas músicas e as ordene em ordem alfabética com as colunas abaixo se baseando nos seguintes critérios:
 
